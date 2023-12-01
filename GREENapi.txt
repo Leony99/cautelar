@@ -1,0 +1,8 @@
+API url	
+https://api.green-api.com
+IdInstance	
+1101814610
+ApiTokenInstance	14430cfcbac447cebd80f60f6f153833f106fc4c9b77464585
+Name	Instance 1101814610
+Status	Authorized
+Phone	5521985069581
