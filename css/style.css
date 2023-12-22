@@ -182,7 +182,7 @@ h6,
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
     }
-    
+
     .sticky-top.navbar-dark {
         position: fixed;
         background: #FFFFFF;
@@ -453,6 +453,20 @@ h6,
 .blog-item:hover .blog-img img {
     transform: scale(1.15);
 }
+
+/*** About ***/
+.contact-row {
+    align-items: center;
+}
+
+.ps-4 h5 {
+    font-size: 1.0rem;
+}
+
+.ps-4 h4 {
+    font-size: 1.1rem;
+}
+
 
 
 /*** Miscellaneous ***/
